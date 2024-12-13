@@ -4,11 +4,15 @@
 
 🌐 20 Years of Experience: Expertise in enterprise hosting, virtualization, and containerization.
 
-* 🚀 Forever Learner: Constantly exploring new corners of the digital universe to grow and improve.
-* 🛠️ Technical Proficiency: Skilled in Linux, Kubernetes, AWS, Python, TypeScript, and more.
-* 👨‍👩‍👧‍👦 Family Man: Dedicated to my loved ones and cherishing time together.
-* 📜 Amateur Historian: Fascinated by history and its lessons for the present.
-* 🔧 Electronics Enthusiast: Enjoy designing and building custom split keyboards and tinkering with hardware projects.
+🚀 Forever Learner: Constantly exploring new corners of the digital universe to grow and improve.
+
+🛠️ Technical Proficiency: Skilled in Linux, Kubernetes, AWS, Python, TypeScript, and more.
+
+👨‍👩‍👧‍👦 Family Man: Dedicated to my loved ones and cherishing time together.
+
+📜 Amateur Historian: Fascinated by history and its lessons for the present.
+
+🔧 Electronics Enthusiast: Enjoy designing and building custom split keyboards and tinkering with hardware projects.
 
 ## Programming languages
 
