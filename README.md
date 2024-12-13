@@ -2,7 +2,7 @@
 
 💻 DevOps Engineer & Open-Source Tinkerer: Passionate about solving complex computing challenges with innovative solutions.
 
-🌐 20 Years of Experience: Expertise in enterprise hosting, virtualization, and containerization.
+🌐 20 Years of Experience in enterprise hosting, virtualization, containerization and dataprocessing.
 
 🚀 Forever Learner: Constantly exploring new corners of the digital universe to grow and improve.
 
