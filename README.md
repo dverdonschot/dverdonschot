@@ -1,7 +1,9 @@
 # Dennis Verdonschot 👋
 
-* 💻 DevOps Engineer & Open-Source Tinkerer: Passionate about solving complex computing challenges with innovative solutions.
-* 🌐 20 Years of Experience: Expertise in enterprise hosting, virtualization, and containerization.
+💻 DevOps Engineer & Open-Source Tinkerer: Passionate about solving complex computing challenges with innovative solutions.
+
+🌐 20 Years of Experience: Expertise in enterprise hosting, virtualization, and containerization.
+
 * 🚀 Forever Learner: Constantly exploring new corners of the digital universe to grow and improve.
 * 🛠️ Technical Proficiency: Skilled in Linux, Kubernetes, AWS, Python, TypeScript, and more.
 * 👨‍👩‍👧‍👦 Family Man: Dedicated to my loved ones and cherishing time together.
