@@ -16,7 +16,7 @@
 
 ## Programming languages
 
-🐍 Python | 📜 TypeScript | 🖥️ Bash | 💻 PowerShell | 🛠️ CDK | ⚙️ Ansible | 🎭 Puppet | 🌍 Terraform | 🧩 Nix | 🦀 Rust (beginner)
+🐍 Python | 📜 TypeScript | 🖥️ Bash | 💻 PowerShell | 🛠️ CDK | ⚙️ Ansible | 🎭 Puppet | 🌍 Terraform | 🧩 Nix | 🦀 Rust
 
 ## Virtualization and Containerization
 
