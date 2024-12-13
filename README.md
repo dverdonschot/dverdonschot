@@ -30,6 +30,10 @@
 
 ☁️ AWS | 🌩️ Azure | 🚀 Linode
 
+## Data Tools
+
+⚡ Spark | 🐼 Pandas | 📊 Seaborn | 🐘 PostgreSQL | 🗄️ MySQL
+
 ## AI Tools
 
 🤗 Hugging Face | 🤖 OpenAI | 🌌 AWS Bedrock | ⚡ bolt.diy
