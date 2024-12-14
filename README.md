@@ -38,7 +38,7 @@
 
 🤗 Hugging Face | 🤖 OpenAI | 🌌 AWS Bedrock | ⚡ bolt.diy
 
-## HomeLab Projects
+## HomeLab Services
 
 📷 Immich | 🏡 Home Assistant | 🔗 Tailscale | 🎥 Jellyfin | 🔍 SearXNG
 
