@@ -24,19 +24,27 @@
 
 ## Operating Systems
 
-🪟 Windows | 🐧 Fedora / RedHat | 🧡 Ubuntu / Debian | 🧩 NixOS | 📱 GrapheneOS
+🪟 Windows | 🐧 Fedora / RedHat | 🧡 Ubuntu / Debian | 🧩 NixOS | 📱 GrapheneOS | 📍 Silverblue
 
 ## Cloud Platforms
 
-☁️ AWS | 🌩️ Azure | 🚀 Linode
+☁️ AWS | 🌩️ Azure | 🚀 Linode | 🇬 GCP | 💻 Hetzner
+
+## Databases
+
+🐘 PostgreSQL | 🗄️ Mariadb | 🧶 MongoDB | 📥 REDIS | 📊 InfluxDB 
 
 ## Data Tools
 
-⚡ Spark | 🐼 Pandas | 📊 Seaborn | 🐘 PostgreSQL | 🗄️ MySQL
+⚡ Spark | 🐼 Pandas | 📊 Seaborn | 💨 Airflow | ❄️ Snowflake | 🧱 Databricks 
 
 ## AI Tools
 
-🤗 Hugging Face | 🤖 OpenAI | 🌌 AWS Bedrock | ⚡ bolt.diy
+🤗 Hugging Face | 🤖 OpenAI | 🌌 AWS Bedrock | ⚡ bolt.diy | </> Claude Code | 💭 openrouter.ai | 🏞️ imagerouter.ai | 🤖 Litellm
+
+## Kubernetes
+
+∞︎︎ K8S | 💼 ArgoCD | 💾 Longhorn | 📊 Promethues | 🔑 Infiscal | 🔒 External Secrets | 💎 Artifactory
 
 ## HomeLab Services
 
