@@ -14,6 +14,10 @@
 
 🔧 Electronics Enthusiast: Enjoy designing and building custom split keyboards and tinkering with hardware projects.
 
+💭 Tech Blogger: Sharing about my intrests and it projects at https://dverdonschot.github.io
+
+⌨️ Touch Typing Enthusiast : Maintaining https://typetutor.org to help others master touch typing skills.
+
 ## Programming languages
 
 🐍 Python | 📜 TypeScript | 🖥️ Bash | 💻 PowerShell | 🛠️ CDK | ⚙️ Ansible | 🎭 Puppet | 🌍 Terraform | 🧩 Nix | 🦀 Rust
